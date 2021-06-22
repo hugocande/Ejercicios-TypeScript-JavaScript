@@ -1,4 +1,4 @@
-//Introducir un texto y convertirlo a código MORSE
+//Ejercicio 2. Introducir un texto y convertirlo a código MORSE
 
 /*Función toMorse:
        Recorre el texto con un foreach.
