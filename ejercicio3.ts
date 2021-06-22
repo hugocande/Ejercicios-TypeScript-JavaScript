@@ -1,3 +1,4 @@
+//Ejercicio 3. Calcular el factorial de un número.
 
 let numero:number = 10;
 let solucion:number = 1;
