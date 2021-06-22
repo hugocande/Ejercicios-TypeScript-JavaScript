@@ -1,4 +1,4 @@
-/*Ejercicio 7
+/*Ejercicio 1 ¡DIFÍCIL!
 En este ejercicio vamos a realizar un proyecto de dificultad avanzada.
 ¿Qué queremos realizar?
 Nos ha contratado una empresa de transportes, la cual tiene unas necesidades especiales.
