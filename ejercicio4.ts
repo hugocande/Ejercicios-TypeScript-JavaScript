@@ -1,4 +1,5 @@
-/*Crea un programa que genere 20 números aleatorios entre 0 y 10 y los guarde en un array,
+/*EJERCICIO 4.
+Crea un programa que genere 20 números aleatorios entre 0 y 10 y los guarde en un array,
 Una vez creados, calcular la media de los números del array.
 Si la media es superior a 5, mostrar un mensaje con Aprobado.
 En caso contrario, mostrar un mensaje con Suspenso.
