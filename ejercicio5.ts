@@ -1,4 +1,5 @@
-/* Crea un programa que genere 10 números en orden aleatorio entre 1 y 10.
+/*EJERCICIO 5. 
+Crea un programa que genere 10 números en orden aleatorio entre 1 y 10.
 ¡Los números no se pueden repetir!
 El ejercicio consiste en conseguir los números del 1 al 10 pero en orden aleatorio.
 Ejemplo de salida: 9 6 2 8 1 3 7 4 5 10
