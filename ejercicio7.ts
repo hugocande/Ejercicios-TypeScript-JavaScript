@@ -1,4 +1,4 @@
-/*Ejercicio 12
+/*Ejercicio 7
 Crea un programa que nos diga los números primos entre 1 y 500
  */
 
