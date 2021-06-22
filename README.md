@@ -29,3 +29,10 @@ EJERCICIO 5 - Aleatorios en orden.
 Crea un programa que genere 10 números en orden aleatorio entre el 1 y el 10. ¡Los números no se pueden repetir!
 El ejercicio consiste en conseguir los números del 1 al 10 pero en orden aleatorio.
 Ejemplo: 9 6 2 8 1 3 7 5 4 10
+
+EJERCICIO 6 
+Crea un programa que compruebe si una letra existe en un texto. Crea una variable de tipo string que contenta un texto.
+Crea una variable de tipo string que contenga una letra. Comprueba si la letra existe dentro del string.
+
+EJERCICIO 7 - Primos del 1 al 500
+Crea un programa que nos diga los números primos entre el 1 y el 500
