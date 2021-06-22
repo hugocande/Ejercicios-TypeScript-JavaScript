@@ -1,4 +1,4 @@
-/*Ejercicio 11
+/*Ejercicio 6
 Parte 1: Crea un programa que compruebe si una letra existe en un texto.
 Parte 2: Crea una variable de tipo string que contenga un texto.
 Crea una variable de tipo string que contenga una letra.
